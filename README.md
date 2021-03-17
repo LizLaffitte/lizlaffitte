@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="25px" />
-I am a Fullstack Developer working in Digital Marketing. I first fell in love with programming when I had the opportunity to learn how to code HTML emails so that they look good in **all** versions of Outlook. 
+I am a Full Stack Developer working in Digital Marketing. I first fell in love with programming when I had the opportunity to learn how to code HTML emails so that they look good in **all** versions of Outlook. 
 
 I completed the Software Engineering bootcamp at Flatiron Schools, where I took a deep dive into Ruby, Rails, React, Redux and JavaScript.
 
