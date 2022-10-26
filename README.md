@@ -5,7 +5,7 @@ I completed the Software Engineering bootcamp at Flatiron Schools, where I took 
 
 🔭 I’m currently working on a LWC that will pull bank data from the FDIC's BankFind Suite API and upsert records in Salesforce.
 
-⚡ Fun fact: Being a native Floridian means I've always had non-traditional pets including a raccoon, a turkey, and a flying squirrel. Right now we have a 13 year old fur baby 🐕 and 4 chickens 🐔. 
+⚡ Fun fact: My hobbies include cross stitch, hiking, geocaching and buying my kid Lego sets so I can put them together. 
 
 😄 Pronouns: she/her
 
